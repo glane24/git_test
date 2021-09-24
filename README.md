@@ -1,1 +1,1 @@
-This is George's first gi project!
+This is George's first git project!
